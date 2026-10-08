@@ -40,3 +40,10 @@ out of scope for this package.
 ## Reading order
 
 1. [Python](001_python.md)
+
+## License
+
+This specification package, including its documentation, metadata, and bundled
+resources, is licensed under the [MIT License](LICENSE).
+
+Copyright (c) 2026 Lucas Lopez.
